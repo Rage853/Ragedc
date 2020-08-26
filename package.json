@@ -1,0 +1,14 @@
+{
+  "name": "uplife-api-test",
+  "description": "bot testing+ ex",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "uplife-api": "2.0.12",
+    "http": "*",
+    "express": "^4.17.1",
+    "node-opus": "^0.3.2"
+  }
+}
